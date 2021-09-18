@@ -1,15 +1,15 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 420,
+    "stargazers_count": 424,
     "open_issues_count": 22,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "MarcoWorms/learn.js",
-    "stargazers_count": 265,
-    "open_issues_count": 1,
-    "forks_count": 16
+    "stargazers_count": 278,
+    "open_issues_count": 0,
+    "forks_count": 17
   },
   {
     "full_name": "andrewcooke/simple-crypt",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 25314,
-    "open_issues_count": 941,
-    "forks_count": 1549
+    "stargazers_count": 25343,
+    "open_issues_count": 944,
+    "forks_count": 1551
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 42537,
-    "open_issues_count": 1,
-    "forks_count": 6245
+    "stargazers_count": 42898,
+    "open_issues_count": 2,
+    "forks_count": 6278
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5132,
+    "stargazers_count": 5134,
     "open_issues_count": 0,
     "forks_count": 766
   },
@@ -67,26 +67,26 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6504,
-    "open_issues_count": 753,
+    "stargazers_count": 6507,
+    "open_issues_count": 755,
     "forks_count": 1459
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 3959,
-    "open_issues_count": 54,
+    "stargazers_count": 3968,
+    "open_issues_count": 57,
     "forks_count": 667
   },
   {
     "full_name": "mrtazz/restclient-cpp",
-    "stargazers_count": 1301,
+    "stargazers_count": 1302,
     "open_issues_count": 20,
     "forks_count": 328
   },
   {
     "full_name": "standardese/standardese",
     "stargazers_count": 752,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 36
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "pr0g/cmake-examples",
-    "stargazers_count": 899,
+    "stargazers_count": 900,
     "open_issues_count": 0,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "o11c/makefile-demo",
