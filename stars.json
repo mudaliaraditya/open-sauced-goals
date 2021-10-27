@@ -1,8 +1,8 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 493,
-    "open_issues_count": 16,
+    "stargazers_count": 503,
+    "open_issues_count": 17,
     "forks_count": 63
   },
   {
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 25713,
-    "open_issues_count": 605,
-    "forks_count": 1580
+    "stargazers_count": 25742,
+    "open_issues_count": 613,
+    "forks_count": 1581
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 43875,
-    "open_issues_count": 6,
-    "forks_count": 6402
+    "stargazers_count": 43911,
+    "open_issues_count": 8,
+    "forks_count": 6410
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5148,
+    "stargazers_count": 5146,
     "open_issues_count": 0,
-    "forks_count": 766
+    "forks_count": 765
   },
   {
     "full_name": "AndsonYe/MultipartEncoder",
@@ -67,25 +67,25 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6567,
+    "stargazers_count": 6570,
     "open_issues_count": 762,
-    "forks_count": 1474
+    "forks_count": 1475
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4064,
-    "open_issues_count": 44,
-    "forks_count": 679
+    "stargazers_count": 4069,
+    "open_issues_count": 45,
+    "forks_count": 678
   },
   {
     "full_name": "mrtazz/restclient-cpp",
-    "stargazers_count": 1310,
+    "stargazers_count": 1311,
     "open_issues_count": 20,
     "forks_count": 327
   },
   {
     "full_name": "standardese/standardese",
-    "stargazers_count": 761,
+    "stargazers_count": 762,
     "open_issues_count": 34,
     "forks_count": 36
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "pr0g/cmake-examples",
-    "stargazers_count": 902,
+    "stargazers_count": 905,
     "open_issues_count": 1,
     "forks_count": 47
   },
