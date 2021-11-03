@@ -1,13 +1,13 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 508,
-    "open_issues_count": 17,
-    "forks_count": 64
+    "stargazers_count": 516,
+    "open_issues_count": 16,
+    "forks_count": 65
   },
   {
     "full_name": "MarcoWorms/learn.js",
-    "stargazers_count": 285,
+    "stargazers_count": 287,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 25767,
-    "open_issues_count": 610,
-    "forks_count": 1590
+    "stargazers_count": 25796,
+    "open_issues_count": 615,
+    "forks_count": 1596
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 43942,
+    "stargazers_count": 43977,
     "open_issues_count": 8,
-    "forks_count": 6421
+    "forks_count": 6431
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "sagielevy/C2Py",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5148,
+    "stargazers_count": 5149,
     "open_issues_count": 0,
     "forks_count": 765
   },
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6573,
-    "open_issues_count": 762,
+    "stargazers_count": 6579,
+    "open_issues_count": 760,
     "forks_count": 1477
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4078,
-    "open_issues_count": 45,
-    "forks_count": 679
+    "stargazers_count": 4080,
+    "open_issues_count": 44,
+    "forks_count": 680
   },
   {
     "full_name": "mrtazz/restclient-cpp",
-    "stargazers_count": 1310,
+    "stargazers_count": 1313,
     "open_issues_count": 20,
     "forks_count": 327
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "pr0g/cmake-examples",
-    "stargazers_count": 905,
+    "stargazers_count": 907,
     "open_issues_count": 1,
     "forks_count": 47
   },
