@@ -1,9 +1,9 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 521,
-    "open_issues_count": 19,
-    "forks_count": 67
+    "stargazers_count": 528,
+    "open_issues_count": 18,
+    "forks_count": 66
   },
   {
     "full_name": "MarcoWorms/learn.js",
@@ -15,7 +15,7 @@
     "full_name": "andrewcooke/simple-crypt",
     "stargazers_count": 254,
     "open_issues_count": 10,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "rahuliyer/dropbox-cpp",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 25830,
-    "open_issues_count": 620,
-    "forks_count": 1600
+    "stargazers_count": 25866,
+    "open_issues_count": 631,
+    "forks_count": 1603
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 44018,
-    "open_issues_count": 8,
-    "forks_count": 6437
+    "stargazers_count": 44059,
+    "open_issues_count": 9,
+    "forks_count": 6442
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5151,
+    "stargazers_count": 5150,
     "open_issues_count": 0,
     "forks_count": 765
   },
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6585,
-    "open_issues_count": 761,
-    "forks_count": 1477
+    "stargazers_count": 6587,
+    "open_issues_count": 762,
+    "forks_count": 1476
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4089,
+    "stargazers_count": 4103,
     "open_issues_count": 45,
-    "forks_count": 689
+    "forks_count": 690
   },
   {
     "full_name": "mrtazz/restclient-cpp",
-    "stargazers_count": 1314,
-    "open_issues_count": 20,
-    "forks_count": 329
+    "stargazers_count": 1316,
+    "open_issues_count": 21,
+    "forks_count": 330
   },
   {
     "full_name": "standardese/standardese",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "pr0g/cmake-examples",
-    "stargazers_count": 908,
+    "stargazers_count": 910,
     "open_issues_count": 1,
     "forks_count": 47
   },
