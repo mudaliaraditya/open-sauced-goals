@@ -1,8 +1,8 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 702,
-    "open_issues_count": 20,
+    "stargazers_count": 708,
+    "open_issues_count": 21,
     "forks_count": 92
   },
   {
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 27059,
-    "open_issues_count": 722,
-    "forks_count": 1705
+    "stargazers_count": 27092,
+    "open_issues_count": 724,
+    "forks_count": 1703
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 45248,
-    "open_issues_count": 7,
-    "forks_count": 6711
+    "stargazers_count": 45279,
+    "open_issues_count": 8,
+    "forks_count": 6719
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5187,
+    "stargazers_count": 5188,
     "open_issues_count": 0,
-    "forks_count": 766
+    "forks_count": 767
   },
   {
     "full_name": "AndsonYe/MultipartEncoder",
@@ -67,25 +67,25 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6752,
+    "stargazers_count": 6759,
     "open_issues_count": 779,
-    "forks_count": 1510
+    "forks_count": 1512
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4390,
+    "stargazers_count": 4398,
     "open_issues_count": 49,
     "forks_count": 729
   },
   {
     "full_name": "mrtazz/restclient-cpp",
-    "stargazers_count": 1352,
+    "stargazers_count": 1354,
     "open_issues_count": 24,
-    "forks_count": 345
+    "forks_count": 344
   },
   {
     "full_name": "standardese/standardese",
-    "stargazers_count": 781,
+    "stargazers_count": 782,
     "open_issues_count": 34,
     "forks_count": 35
   },
@@ -115,19 +115,19 @@
   },
   {
     "full_name": "MBMIT/MBM-Artwork",
-    "stargazers_count": 942,
+    "stargazers_count": 941,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/MBM-Sandbox",
-    "stargazers_count": 942,
+    "stargazers_count": 941,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/MBM-Projects",
-    "stargazers_count": 939,
+    "stargazers_count": 938,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "MBMIT/mbmit.github.io",
-    "stargazers_count": 952,
+    "stargazers_count": 951,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "MBMIT/interges.github.io",
-    "stargazers_count": 897,
+    "stargazers_count": 896,
     "open_issues_count": 0,
     "forks_count": 1
   },
