@@ -1,7 +1,7 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 716,
+    "stargazers_count": 719,
     "open_issues_count": 21,
     "forks_count": 93
   },
@@ -15,7 +15,7 @@
     "full_name": "andrewcooke/simple-crypt",
     "stargazers_count": 256,
     "open_issues_count": 10,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "rahuliyer/dropbox-cpp",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 27114,
-    "open_issues_count": 722,
+    "stargazers_count": 27141,
+    "open_issues_count": 728,
     "forks_count": 1706
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 45302,
+    "stargazers_count": 45335,
     "open_issues_count": 8,
-    "forks_count": 6727
+    "forks_count": 6734
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -67,25 +67,25 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6760,
+    "stargazers_count": 6766,
     "open_issues_count": 779,
-    "forks_count": 1512
+    "forks_count": 1508
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4409,
-    "open_issues_count": 49,
+    "stargazers_count": 4413,
+    "open_issues_count": 48,
     "forks_count": 732
   },
   {
     "full_name": "mrtazz/restclient-cpp",
-    "stargazers_count": 1355,
+    "stargazers_count": 1356,
     "open_issues_count": 24,
     "forks_count": 345
   },
   {
     "full_name": "standardese/standardese",
-    "stargazers_count": 783,
+    "stargazers_count": 784,
     "open_issues_count": 34,
     "forks_count": 35
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "pr0g/cmake-examples",
-    "stargazers_count": 927,
+    "stargazers_count": 928,
     "open_issues_count": 1,
     "forks_count": 50
   },
