@@ -1,15 +1,15 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 785,
-    "open_issues_count": 18,
-    "forks_count": 95
+    "stargazers_count": 884,
+    "open_issues_count": 19,
+    "forks_count": 99
   },
   {
     "full_name": "MarcoWorms/learn.js",
-    "stargazers_count": 291,
-    "open_issues_count": 0,
-    "forks_count": 18
+    "stargazers_count": 294,
+    "open_issues_count": 1,
+    "forks_count": 20
   },
   {
     "full_name": "andrewcooke/simple-crypt",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 27752,
-    "open_issues_count": 729,
-    "forks_count": 1718
+    "stargazers_count": 27824,
+    "open_issues_count": 738,
+    "forks_count": 1723
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 45585,
+    "stargazers_count": 45659,
     "open_issues_count": 8,
-    "forks_count": 6770
+    "forks_count": 6775
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5210,
+    "stargazers_count": 5215,
     "open_issues_count": 0,
-    "forks_count": 769
+    "forks_count": 770
   },
   {
     "full_name": "AndsonYe/MultipartEncoder",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6797,
+    "stargazers_count": 6798,
     "open_issues_count": 778,
-    "forks_count": 1506
+    "forks_count": 1509
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4492,
+    "stargazers_count": 4502,
     "open_issues_count": 43,
-    "forks_count": 737
+    "forks_count": 739
   },
   {
     "full_name": "mrtazz/restclient-cpp",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "pr0g/cmake-examples",
-    "stargazers_count": 930,
+    "stargazers_count": 929,
     "open_issues_count": 1,
     "forks_count": 50
   },
