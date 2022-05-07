@@ -1,21 +1,21 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 960,
-    "open_issues_count": 34,
+    "stargazers_count": 962,
+    "open_issues_count": 36,
     "forks_count": 108
   },
   {
     "full_name": "MarcoWorms/learn.js",
-    "stargazers_count": 294,
+    "stargazers_count": 295,
     "open_issues_count": 1,
     "forks_count": 19
   },
   {
     "full_name": "andrewcooke/simple-crypt",
-    "stargazers_count": 257,
+    "stargazers_count": 258,
     "open_issues_count": 10,
-    "forks_count": 77
+    "forks_count": 76
   },
   {
     "full_name": "rahuliyer/dropbox-cpp",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 28790,
-    "open_issues_count": 790,
-    "forks_count": 1772
+    "stargazers_count": 28842,
+    "open_issues_count": 805,
+    "forks_count": 1775
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 46320,
+    "stargazers_count": 46386,
     "open_issues_count": 8,
-    "forks_count": 6862
+    "forks_count": 6875
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5234,
+    "stargazers_count": 5235,
     "open_issues_count": 0,
     "forks_count": 775
   },
@@ -67,25 +67,25 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6836,
-    "open_issues_count": 781,
+    "stargazers_count": 6842,
+    "open_issues_count": 783,
     "forks_count": 1521
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4606,
-    "open_issues_count": 46,
-    "forks_count": 745
+    "stargazers_count": 4613,
+    "open_issues_count": 42,
+    "forks_count": 744
   },
   {
     "full_name": "mrtazz/restclient-cpp",
     "stargazers_count": 1372,
     "open_issues_count": 23,
-    "forks_count": 346
+    "forks_count": 345
   },
   {
     "full_name": "standardese/standardese",
-    "stargazers_count": 799,
+    "stargazers_count": 800,
     "open_issues_count": 38,
     "forks_count": 38
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "pr0g/cmake-examples",
-    "stargazers_count": 939,
+    "stargazers_count": 940,
     "open_issues_count": 1,
     "forks_count": 50
   },
@@ -115,67 +115,67 @@
   },
   {
     "full_name": "MBMIT/MBM-Artwork",
-    "stargazers_count": 940,
+    "stargazers_count": 939,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/MBM-Sandbox",
-    "stargazers_count": 940,
+    "stargazers_count": 939,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/MBM-Projects",
-    "stargazers_count": 937,
+    "stargazers_count": 936,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/neurolab-android",
-    "stargazers_count": 515,
+    "stargazers_count": 514,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "MBMIT/neurolab-hardware",
-    "stargazers_count": 509,
+    "stargazers_count": 508,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/timesheet",
-    "stargazers_count": 744,
+    "stargazers_count": 743,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/yacy-search",
-    "stargazers_count": 741,
+    "stargazers_count": 740,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/mbmit.github.io",
-    "stargazers_count": 950,
+    "stargazers_count": 949,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/yacy_grid_ui",
-    "stargazers_count": 736,
+    "stargazers_count": 735,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/interges.github.io",
-    "stargazers_count": 895,
+    "stargazers_count": 894,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/Test_voice_input",
-    "stargazers_count": 741,
+    "stargazers_count": 740,
     "open_issues_count": 0,
     "forks_count": 0
   }
