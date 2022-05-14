@@ -1,7 +1,7 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 964,
+    "stargazers_count": 972,
     "open_issues_count": 37,
     "forks_count": 110
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 28924,
-    "open_issues_count": 801,
-    "forks_count": 1775
+    "stargazers_count": 28981,
+    "open_issues_count": 799,
+    "forks_count": 1781
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 46464,
+    "stargazers_count": 46511,
     "open_issues_count": 8,
-    "forks_count": 6883
+    "forks_count": 6893
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5232,
+    "stargazers_count": 5234,
     "open_issues_count": 0,
     "forks_count": 775
   },
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6846,
-    "open_issues_count": 787,
-    "forks_count": 1522
+    "stargazers_count": 6856,
+    "open_issues_count": 788,
+    "forks_count": 1523
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4622,
-    "open_issues_count": 42,
+    "stargazers_count": 4632,
+    "open_issues_count": 40,
     "forks_count": 746
   },
   {
     "full_name": "mrtazz/restclient-cpp",
     "stargazers_count": 1374,
     "open_issues_count": 23,
-    "forks_count": 345
+    "forks_count": 344
   },
   {
     "full_name": "standardese/standardese",
@@ -115,67 +115,67 @@
   },
   {
     "full_name": "MBMIT/MBM-Artwork",
-    "stargazers_count": 939,
+    "stargazers_count": 938,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/MBM-Sandbox",
-    "stargazers_count": 939,
+    "stargazers_count": 938,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/MBM-Projects",
-    "stargazers_count": 936,
+    "stargazers_count": 935,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/neurolab-android",
-    "stargazers_count": 514,
+    "stargazers_count": 513,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "MBMIT/neurolab-hardware",
-    "stargazers_count": 508,
+    "stargazers_count": 507,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/timesheet",
-    "stargazers_count": 743,
+    "stargazers_count": 742,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/yacy-search",
-    "stargazers_count": 740,
+    "stargazers_count": 739,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/mbmit.github.io",
-    "stargazers_count": 949,
+    "stargazers_count": 948,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/yacy_grid_ui",
-    "stargazers_count": 735,
+    "stargazers_count": 734,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/interges.github.io",
-    "stargazers_count": 894,
+    "stargazers_count": 893,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/Test_voice_input",
-    "stargazers_count": 740,
+    "stargazers_count": 739,
     "open_issues_count": 0,
     "forks_count": 0
   }
