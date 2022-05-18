@@ -1,13 +1,13 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 972,
-    "open_issues_count": 37,
+    "stargazers_count": 982,
+    "open_issues_count": 33,
     "forks_count": 110
   },
   {
     "full_name": "MarcoWorms/learn.js",
-    "stargazers_count": 295,
+    "stargazers_count": 296,
     "open_issues_count": 1,
     "forks_count": 19
   },
@@ -15,7 +15,7 @@
     "full_name": "andrewcooke/simple-crypt",
     "stargazers_count": 258,
     "open_issues_count": 10,
-    "forks_count": 76
+    "forks_count": 75
   },
   {
     "full_name": "rahuliyer/dropbox-cpp",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 28981,
+    "stargazers_count": 29039,
     "open_issues_count": 799,
-    "forks_count": 1781
+    "forks_count": 1784
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 46511,
+    "stargazers_count": 46570,
     "open_issues_count": 8,
     "forks_count": 6893
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5234,
+    "stargazers_count": 5237,
     "open_issues_count": 0,
-    "forks_count": 775
+    "forks_count": 776
   },
   {
     "full_name": "AndsonYe/MultipartEncoder",
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6856,
+    "stargazers_count": 6863,
     "open_issues_count": 788,
-    "forks_count": 1523
+    "forks_count": 1522
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4632,
-    "open_issues_count": 40,
-    "forks_count": 746
+    "stargazers_count": 4640,
+    "open_issues_count": 43,
+    "forks_count": 750
   },
   {
     "full_name": "mrtazz/restclient-cpp",
-    "stargazers_count": 1374,
+    "stargazers_count": 1375,
     "open_issues_count": 23,
     "forks_count": 344
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "pr0g/cmake-examples",
-    "stargazers_count": 942,
+    "stargazers_count": 945,
     "open_issues_count": 1,
     "forks_count": 50
   },
