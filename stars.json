@@ -1,21 +1,21 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 1012,
-    "open_issues_count": 28,
+    "stargazers_count": 1013,
+    "open_issues_count": 31,
     "forks_count": 111
   },
   {
     "full_name": "MarcoWorms/learn.js",
     "stargazers_count": 299,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "andrewcooke/simple-crypt",
     "stargazers_count": 258,
     "open_issues_count": 10,
-    "forks_count": 75
+    "forks_count": 74
   },
   {
     "full_name": "rahuliyer/dropbox-cpp",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 29176,
-    "open_issues_count": 735,
-    "forks_count": 1796
+    "stargazers_count": 29215,
+    "open_issues_count": 741,
+    "forks_count": 1799
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 46804,
+    "stargazers_count": 46872,
     "open_issues_count": 9,
-    "forks_count": 6917
+    "forks_count": 6924
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "sagielevy/C2Py",
-    "stargazers_count": 9,
-    "open_issues_count": 3,
+    "stargazers_count": 10,
+    "open_issues_count": 5,
     "forks_count": 8
   },
   {
@@ -61,25 +61,25 @@
   },
   {
     "full_name": "AndsonYe/MultipartEncoder",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 2,
     "forks_count": 18
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6891,
+    "stargazers_count": 6895,
     "open_issues_count": 791,
     "forks_count": 1520
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4681,
-    "open_issues_count": 43,
-    "forks_count": 759
+    "stargazers_count": 4688,
+    "open_issues_count": 42,
+    "forks_count": 760
   },
   {
     "full_name": "mrtazz/restclient-cpp",
-    "stargazers_count": 1381,
+    "stargazers_count": 1382,
     "open_issues_count": 22,
     "forks_count": 345
   },
@@ -87,7 +87,7 @@
     "full_name": "standardese/standardese",
     "stargazers_count": 807,
     "open_issues_count": 37,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "willwray/type_codec_challenge",
