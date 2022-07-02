@@ -1,8 +1,8 @@
 [
   {
     "full_name": "CrowCpp/Crow",
-    "stargazers_count": 1038,
-    "open_issues_count": 31,
+    "stargazers_count": 1045,
+    "open_issues_count": 29,
     "forks_count": 119
   },
   {
@@ -15,7 +15,7 @@
     "full_name": "andrewcooke/simple-crypt",
     "stargazers_count": 259,
     "open_issues_count": 10,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "rahuliyer/dropbox-cpp",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 29445,
-    "open_issues_count": 753,
-    "forks_count": 1815
+    "stargazers_count": 29608,
+    "open_issues_count": 755,
+    "forks_count": 1818
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 47266,
+    "stargazers_count": 47340,
     "open_issues_count": 9,
-    "forks_count": 6968
+    "forks_count": 6975
   },
   {
     "full_name": "mudaliaraditya/EpollServer",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "angrave/SystemProgramming",
-    "stargazers_count": 5248,
+    "stargazers_count": 5251,
     "open_issues_count": 0,
     "forks_count": 774
   },
@@ -67,31 +67,31 @@
   },
   {
     "full_name": "microsoft/cpprestsdk",
-    "stargazers_count": 6919,
-    "open_issues_count": 792,
-    "forks_count": 1524
+    "stargazers_count": 6925,
+    "open_issues_count": 793,
+    "forks_count": 1528
   },
   {
     "full_name": "libcpr/cpr",
-    "stargazers_count": 4724,
-    "open_issues_count": 46,
-    "forks_count": 763
+    "stargazers_count": 4732,
+    "open_issues_count": 47,
+    "forks_count": 764
   },
   {
     "full_name": "mrtazz/restclient-cpp",
-    "stargazers_count": 1384,
+    "stargazers_count": 1385,
     "open_issues_count": 24,
     "forks_count": 346
   },
   {
     "full_name": "standardese/standardese",
-    "stargazers_count": 810,
+    "stargazers_count": 811,
     "open_issues_count": 40,
     "forks_count": 40
   },
   {
     "full_name": "willwray/type_codec_challenge",
-    "stargazers_count": 4,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "pr0g/cmake-examples",
-    "stargazers_count": 949,
+    "stargazers_count": 951,
     "open_issues_count": 1,
     "forks_count": 50
   },
@@ -115,19 +115,19 @@
   },
   {
     "full_name": "MBMIT/MBM-Artwork",
-    "stargazers_count": 937,
+    "stargazers_count": 936,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/MBM-Sandbox",
-    "stargazers_count": 937,
+    "stargazers_count": 936,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/MBM-Projects",
-    "stargazers_count": 934,
+    "stargazers_count": 933,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -145,37 +145,37 @@
   },
   {
     "full_name": "Orbiter/timesheet",
-    "stargazers_count": 741,
+    "stargazers_count": 740,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/yacy-search",
-    "stargazers_count": 738,
+    "stargazers_count": 737,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/mbmit.github.io",
-    "stargazers_count": 947,
+    "stargazers_count": 946,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/yacy_grid_ui",
-    "stargazers_count": 733,
+    "stargazers_count": 732,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "MBMIT/interges.github.io",
-    "stargazers_count": 892,
+    "stargazers_count": 891,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "Orbiter/Test_voice_input",
-    "stargazers_count": 738,
+    "stargazers_count": 737,
     "open_issues_count": 0,
     "forks_count": 0
   }
